@@ -1,9 +1,6 @@
 <?php
 // 定义图片 URL 数组
-$images = array("https://example.com/image1.jpg",
-                "https://example.com/image2.jpg",
-                "https://example.com/image3.jpg",
-                "https://example.com/image4.jpg");
+$images = array("https://i.328888.xyz/2023/02/06/rBVkZ.png");
 
 // 随机获取图片 URL
 $selectedImage = $images[array_rand($images)];
